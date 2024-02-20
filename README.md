@@ -1,9 +1,3 @@
-![image](https://github.com/hyewonkim1996/Java-Swing-Project/assets/153244876/5e75b014-0f7b-4041-83a6-499be657707f)
-
-
-&nbsp;
-&nbsp;
-
 <h1 align="center"> 🛫 에어 프로젝트 🛫 </h1>
 
 &nbsp;
@@ -35,6 +29,7 @@
 
 ## 🚧 개발 환경 
 > Oracle 11g
+
 > SQL Developer 18.4.0.376
 
 
